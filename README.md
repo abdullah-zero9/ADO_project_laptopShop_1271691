@@ -1,1 +1,1 @@
-# 1271691
+This real-time chat application project uses Node.js and Socket.io to allow users to send text messages and files in real-time. The chat is designed to mimic a real-life chat experience, and users can see messages appear instantly. The project boasts of user-friendly interfaces that are intuitive and easy to use, ensuring a seamless experience. Its design is centered around creating a hassle-free and convenient chat environment for users to send text and files in real-time.
