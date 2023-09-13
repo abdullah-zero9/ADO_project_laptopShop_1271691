@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Laptop_Emporium
+{
+    public partial class laptop_view : Form
+    {
+        public laptop_view()
+        {
+            InitializeComponent();
+        }
+
+
+    }
+
+}
